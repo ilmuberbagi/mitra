@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="<?php echo base_url().'assets/css/font-awesome.css';?>">
     <link rel="stylesheet" href="<?php echo base_url().'assets/css/themify-icons.css';?>">
     <link rel="stylesheet" href="<?php echo base_url().'assets/css/bootstrap.min.css';?>">
+    <link rel="stylesheet" href="<?php echo base_url().'assets/css/animate.css';?>">
 	
 	<!-- plugin custome style -->
     <link rel="stylesheet" href="<?php echo base_url().'assets/css/plugins/select2/select2.min.css';?>">
@@ -20,7 +21,7 @@
 	
 	
     <!-- Google fonts - Roboto Condensed for headings, Open Sans for copy-->
-    <!-- link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Condensed:300,700%7COpen+Sans:300,400,700" -->
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Condensed:300,700%7COpen+Sans:300,400,700">
     <!-- theme stylesheet-->
     <link rel="stylesheet" href="<?php echo base_url().'assets/css/style.red.css';?>" id="theme-stylesheet">
     <!-- Custom stylesheet - for your changes-->
